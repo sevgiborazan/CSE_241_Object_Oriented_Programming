@@ -1,0 +1,9 @@
+.........
+.XXXXXXX.
+.XOOOOOX.
+.XOXXXOX.
+.XOX.XOX.
+.XOXXXOX.
+.XOOOOOX.
+.XXXXXXX.
+.........
